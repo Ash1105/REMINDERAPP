@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcometext">MedPlanner ऐप में आपका स्वागत है!</string>
+    <string name="app_name">MedPlanner</string>
+    <string name="senddatanextactivity">अगली गतिविधि के लिए डेटा भेजें</string>
+    <string name="entermane">अपना नाम दर्ज करें</string>
+    <string name="sendalert">सहायता प्राप्त करने के लिए एक अलर्ट संदेश भेजें</string>
+    <string name="tips">सामान्य भलाई के लिए युक्तियाँ!</string>
+    <string name="setbtn">सेट</string>
+    <string name="docname">अपने डॉक्टर का नाम दर्ज करें</string>
+    <string name="pill1name">पहली गोली का नाम दर्ज करें</string>
+    <string name="pill2name">दूसरी गोली का नाम दर्ज करें</string>
+    <string name="pilldosage">प्रति दिन गोली की खुराक दर्ज करें</string>
+</resources>
