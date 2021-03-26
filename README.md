@@ -1,4 +1,7 @@
 "# REMINDERAPP"
 
-This Application helps set reminders for taking Prescribed Medicines. It also provides the feature of entering the prescription and then the app designs it into a non editable and proper format which can be taken a screenshot of and then shared. It also provides the option to notify loved ones in times of severe distress, emergency at the click of a button. The app also provides tips for general well being and provides you the option to send these tips to others through social media. (The alarm is not functionable yet, will be updating the code in sometime) 
+Whether it is regular medicine monitoring, providing dosage reminders or informing your contacts about any possible medical emergency, ReminderApp will stay by your side every step of the way to a safer and more disciplined lifestyle. It is also equipped with health tips, which can be shared amongst near and dear ones directly through the application. 
+The application only requires you to enter your Doctor’s prescription and be assured, your health is in good hands!
+The alarm feature (to remind you of medicine timings and dosages) will be available shortly in the next version of the application.
+
 
