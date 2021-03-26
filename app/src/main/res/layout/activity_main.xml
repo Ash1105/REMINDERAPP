@@ -71,7 +71,7 @@
         android:textAlignment='center'
         android:textColor="#E91E63"
         android:textSize="30sp"
-        android:textStyle="normal" />
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/mybutton"

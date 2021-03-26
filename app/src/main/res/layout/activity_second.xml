@@ -44,6 +44,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="15dp"
         android:layout_marginTop="314dp"
+        android:textStyle="bold"
+        android:textColor="#111111"
         android:text="TextView12"
         android:textSize="25sp" />
 
@@ -56,6 +58,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="11dp"
         android:layout_marginTop="642dp"
+        android:textColor="#673AB7"
+        android:textAlignment='center'
         android:text="Take a Screenshot and Save to your Gallery"
         android:textSize="25sp" />
 
@@ -68,6 +72,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="15dp"
         android:layout_marginTop="507dp"
+        android:textStyle="bold"
+        android:textColor="#111111"
         android:text="TextView12"
         android:textSize="25sp" />
 
@@ -80,7 +86,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="15dp"
         android:layout_marginTop="241dp"
-        android:text="TextView"
+        android:textStyle="bold"
+        android:textColor="#111111"
+        android:text="TextView3"
         android:textSize="25sp" />
 
     <TextView
@@ -92,7 +100,9 @@
         android:layout_centerInParent="true"
         android:layout_marginStart="15dp"
         android:layout_marginTop="426dp"
-        android:text="TextView"
+        android:textStyle="bold"
+        android:textColor="#111111"
+        android:text="TextView4"
         android:textSize="25sp" />
 
 </RelativeLayout>
