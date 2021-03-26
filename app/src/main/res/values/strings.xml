@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">MsgShareApp1</string>
+    <string name="app_name">MedPlanner</string>
+    <string name="welcometext">Welcome to MedPlanner App!</string>
+    <string name="senddatanextactivity">Send Data to Next Activity</string>
+    <string name="entermane">Enter your name</string>
+    <string name="sendalert">Send an alert message to get help</string>
+    <string name="tips">Tips for general well being!</string>
+    <string name="setbtn">SET</string>
+    <string name="docname">Enter your doctor\'s name</string>
+    <string name="pill1name">Enter the 1st pill\'s name</string>
+    <string name="pill2name">Enter the 2nd pill\'s name</string>
+    <string name="pilldosage">Enter the pill\'s dosage per day</string>
+
 </resources>
